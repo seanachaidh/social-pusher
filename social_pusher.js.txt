@@ -18,10 +18,10 @@ for(var i=0; i<tweets.length; i++) {
 var Twitter = require('twitter');
 
 var client = new Twitter({
-	consumer_key : "igjbvR3gz4PHN6Pp12HXSEhuq",
-	consumer_secret : '2DYm9rW36W2wl05iAhTmUaIgFxKMTwKU8I6B4NdOyDhvs1y55r',
-	access_token_key : '380539574-SP19JHbxIokEoeHTlTUMmtVwIQ8wD4JICBwaEQaA',
-	access_token_secret : 'fWNs7Xy5RVH4Wr3WyVNKJUyEslNzsSAbo8vPflNyGcmDN'
+	consumer_key : "",
+	consumer_secret : '',
+	access_token_key : '',
+	access_token_secret : ''
 });
 
 
